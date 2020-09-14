@@ -1,8 +1,6 @@
-[
-    {
+[{
         "name": "Basic Home Inspection",
-        "questions": [
-            {
+        "questions": [{
                 "question": "What kind of roof does the home have?",
                 "qtype": "single-select",
                 "atype": "str",
@@ -34,7 +32,7 @@
                 "atype": "bool",
                 "required": true,
                 "photos_required": false,
-                "answer": true,
+                "answer": false,
                 "photos": []
             },
             {
@@ -42,7 +40,7 @@
                 "qtype": "int",
                 "required": true,
                 "photos_required": false,
-                "answer": true,
+                "answer": false,
                 "photos": []
             },
             {
@@ -66,8 +64,7 @@
     },
     {
         "name": "Deluxe Home Inspection",
-        "questions": [
-            {
+        "questions": [{
                 "question": "What kind of roof does the home have?",
                 "qtype": "single-select",
                 "atype": "str",
@@ -99,7 +96,7 @@
                 "atype": "bool",
                 "required": true,
                 "photos_required": false,
-                "answer": true,
+                "answer": false,
                 "photos": []
             },
             {
@@ -108,7 +105,7 @@
                 "atype": "bool",
                 "required": true,
                 "photos_required": false,
-                "answer": true,
+                "answer": false,
                 "photos": []
             },
             {
@@ -116,7 +113,7 @@
                 "qtype": "int",
                 "required": true,
                 "photos_required": false,
-                "answer": true,
+                "answer": false,
                 "photos": []
             },
             {
@@ -124,7 +121,7 @@
                 "qtype": "int",
                 "required": true,
                 "photos_required": false,
-                "answer": true,
+                "answer": false,
                 "photos": []
             },
             {
